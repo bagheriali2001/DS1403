@@ -2,8 +2,8 @@
 
 ## Table of Contents  
 
-- [Exercise 1 : Distributed Systems Roadmap](#exercise-1)  
-- [Exercise 2 : Papers](#exercise-2)  
+- [Exercise 1 : Distributed Systems Roadmap](#exercise-1)
+- [Exercise 2 : Papers](#exercise-2)
 
 ## Exercise 1
 
@@ -15,6 +15,6 @@ Create a Roadmap about your studies in Distributed Systems. You can find it at f
 
 Find two papers about a category of Distributed Systems. These are the found papers:
 
-[Data Management in Microservices: State of the Practice, Challenges, and Research Directions]()
+[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](/papers/data-management-in-microservices.pdf)
 
-[Data Management in Industry: Concepts, Systematic Review and Future Directions]()
+[Data Management in Industry: Concepts, Systematic Review and Future Directions](/papers/data-management-in-industry.pdf)
